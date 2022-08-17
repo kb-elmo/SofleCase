@@ -8,9 +8,10 @@
 
 ---
 
-### These files are meant for 3D printing only! 
+### [Original Sofle v2 keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
 
-They are not suitable for CNC machining and trying to use them for that will most likely result in unusable parts.
+You can find multiple different PCB variants over there.  
+Please note that only the v2 layout versions are compatible with this case.
 
 ---
 
@@ -41,6 +42,12 @@ If you print the bottoms out of a clear filament you will get a very nice and ev
 
 - Josef Adamcik for designing the original Sofle v2 Keyboard and making the project open source
 - the "komische Tastaturen" gang of the german keyboard community that pushed me into making this
+
+---
+
+### These files are meant for 3D printing only! 
+
+They are not suitable for CNC machining and trying to use them for that will most likely result in unusable parts.
 
 ---
 
