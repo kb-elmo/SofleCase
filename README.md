@@ -14,14 +14,14 @@ They are not suitable for CNC machining and trying to use them for that will mos
 
 ---
 
-##### Assembly materials needed:
+#### Assembly materials needed:
 
 - 10x m2x10mm screws for the cases
 - 8x m2x6mm screws for the plates
 - 8x 6mm rubber bumpons (optional)
 
 
-##### Please note:  
+#### Please note:  
 
 - This case was designed to be used with the Elite-C or Puchi-C controller!  
 The USB connector holes in the back of the case would not work properly with a standard ProMicro.
@@ -29,7 +29,7 @@ The USB connector holes in the back of the case would not work properly with a s
 Just using one of the files and mirroring it in your slicer will not work.  
 The holes for the TRRS cable are in slightly different locations on the two sides.
 - The reset switch on both sides of the board should ideally be mounted on the bottom of the PCB.  
-That way you can press the button through the hole in the bottom of the case without having to disassemble the board.
+That way you can press the button through the hole in the bottom of the case without having to disassemble the entire board.
 - The included knob is designed for the Alps EC11E15244G1 encoder.  
 If you are using a different model you might have to use a different knob for your board.
 - The cutouts in the bottom pieces are meant for RGB strips.  
@@ -37,7 +37,7 @@ If you print the bottoms out of a clear filament you will get a very nice and ev
 (as shown in the picture above) 
 
 
-##### Special Thanks to 
+#### Special Thanks to 
 
 - Josef Adamcik for designing the original Sofle v2 Keyboard and making the project open source
 - the "komische Tastaturen" gang of the german keyboard community that pushed me into making this
