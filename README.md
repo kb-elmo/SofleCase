@@ -40,7 +40,7 @@ If you print the bottoms out of a clear filament you will get a very nice and ev
 
 #### Special Thanks to 
 
-- Josef Adamcik for designing the original Sofle v2 Keyboard and making the project open source
+- Josef Adamcik for designing the original Sofle keyboard and making the project open source
 - the "komische Tastaturen" gang of the german keyboard community that pushed me into making this
 
 ---
