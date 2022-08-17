@@ -8,7 +8,7 @@
 
 ---
 
-### [Original Sofle v2 keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
+### --> [Original Sofle v2 keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
 
 You can find multiple different PCB variants over there.  
 Please note that only the v2 layout versions are compatible with this case.
