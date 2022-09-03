@@ -17,8 +17,8 @@ Please note that only the v2 layout versions are compatible with this case.
 
 #### Assembly materials needed:
 
-- 10x m2x10mm screws for the cases
-- 8x m2x6mm screws for the plates
+- 10x m2x6mm screws for the cases
+- 8x m2x8mm screws for the plates
 - 8x 6mm rubber bumpons (optional)
 
 
